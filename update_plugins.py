@@ -32,8 +32,6 @@ vim-surround https://github.com/tpope/vim-surround
 vim-expand-region https://github.com/terryma/vim-expand-region
 vim-multiple-cursors https://github.com/terryma/vim-multiple-cursors
 vim-easymotion https://github.com/Lokaltog/vim-easymotion
-vim-monokai-refined https://github.com/jaromero/vim-monokai-refined
-vim-surround https://github.com/tpope/vim-surround
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
